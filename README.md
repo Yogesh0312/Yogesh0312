@@ -1,3 +1,4 @@
+![Alt Text](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Yogesh Parmar</h1>
 <h3 align="center">A Passionate Frontend Developer From India</h3>
 <img align="right" width="300" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
@@ -6,14 +7,14 @@
 
 - 🌱 I’m currently learning **React & Node**
 
-- 👨‍💻 All of my projects are available at [https://yogesh0312.github.io/my-portfolio/](https://yogesh0312.github.io/my-portfolio/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yogesh0312.github.io/my-portfolio/)
 
 - 📫 How to reach me **p.yogesh108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yogesh_parmar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogesh_parmar03" height="30" width="40" /></a>
-<a href="https://instagram.com/yogesh_parmar108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh_parmar108" height="30" width="40" /></a>
+<a href="https://twitter.com/Yogesh_Parmar03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yogesh_parmar03" height="30" width="40" /></a>
+<a href="https://instagram.com/Yogesh_Parmar108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yogesh_parmar108" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
